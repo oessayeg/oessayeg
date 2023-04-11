@@ -4,6 +4,7 @@
 
 I'm a computer science student who is passionate about coding, solving problems, and building software.
 
-- 🔭 I’m currently studying software engineering at 1337 (42 Network).
-- 📚 I’m currently learning  full stack web development.
+- 🔭 I am studying software engineering at 1337 (42 Network).
+- 📚 I am currently learning  full stack web development.
+- 🌱 I am constantly trying to learn and improve.
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/othmane-essayegh) or via email at [Gmail](mailto:offissayegh001@gmail.com)
