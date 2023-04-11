@@ -7,5 +7,3 @@ I'm a computer science student who is passionate about coding, solving problems,
 - 🔭 I’m currently studying software engineering at 1337 (42 Network).
 - 📚 I’m currently learning  full stack web development.
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/othmane-essayegh) or via email at [Gmail](mailto:offissayegh001@gmail.com)
-
-⭐️ From [hazemessam](https://github.com/hazemessam)
