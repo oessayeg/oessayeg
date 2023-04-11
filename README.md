@@ -7,4 +7,5 @@ I'm a computer science student who is passionate about coding, solving problems,
 - 🔭 I am studying software engineering at 1337 (42 Network).
 - 📚 I am currently learning  full stack web development.
 - 🌱 I am constantly trying to learn and improve.
+- 🛠️ Languages and tools I use : C, C++, Bash, git, VScode, Docker.
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/othmane-essayegh) or via email at [Gmail](mailto:offissayegh001@gmail.com)
