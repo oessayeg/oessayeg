@@ -45,8 +45,6 @@ Always learning, building, and improving.
 <p align="left">
   <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/.github/images/logo-dark.svg" height="32"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://langchain-ai.github.io/langgraph/static/wordmark_dark.svg" height="32" />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" height="32" />
   &nbsp;&nbsp;&nbsp;
 </p>
